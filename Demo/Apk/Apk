@@ -1,1 +1,52 @@
-Final Apk
+# Praktix Video Feed – APK Installation Guide
+# Drive Link - https://drive.google.com/drive/folders/1iSLzG3fwXRZMEcrmbomOCeWCHmIlhzH-?usp=sharing
+
+## 📱 APK Files
+
+This folder contains the following APKs:
+
+- app-release.apk (universal)
+- app-armeabi-v7a-release.apk
+- app-arm64-v8a-release.apk
+- app-x86_64-release.apk
+
+---
+
+## 📥 Installation Steps (Android)
+
+1. Download any one APK file to your Android device  
+   (Recommended: app-release.apk)
+
+2. Open the downloaded file
+
+3. If prompted:
+   - Enable "Install from unknown sources"
+
+4. Tap **Install**
+
+5. Wait for installation to complete
+
+6. Open the app
+
+---
+
+## ⚠️ Notes
+
+- If installation fails, try another APK version (based on device architecture)
+- arm64-v8a is recommended for most modern devices
+- This is a demo build (no real payment integration)
+
+---
+
+## 🚀 Features to Check
+
+- Video feed scrolling
+- Locked video overlay
+- Unlock (mock payment) flow
+- UI/UX experience
+
+---
+
+## 👤 Author
+
+Vijay Raj
